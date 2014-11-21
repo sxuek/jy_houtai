@@ -1,0 +1,25 @@
+<?php exit;?>11-21 16:00:00 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | /Users/L/Documents/jy_houtai/install_package/install/install.php | 351
+<?php exit;?>11-21 16:00:00 | 2 | mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) | /Users/L/Documents/jy_houtai/install_package/install/install.php | 351
+<?php exit;?>11-21 16:00:09 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | /Users/L/Documents/jy_houtai/install_package/install/install.php | 351
+<?php exit;?>11-21 16:00:21 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | /Users/L/Documents/jy_houtai/install_package/install/install.php | 351
+<?php exit;?>11-21 16:00:22 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | /Users/L/Documents/jy_houtai/install_package/install/install.php | 208
+<?php exit;?>11-21 16:01:01 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:01 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:02 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:02 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:02 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:02 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:22 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:22 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:23 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:23 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:24 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:24 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:26 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:26 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:30 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:30 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:31 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:31 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:31 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
+<?php exit;?>11-21 16:01:31 | 8192 | mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead | phpcms/libs/classes/mysql.class.php | 56
